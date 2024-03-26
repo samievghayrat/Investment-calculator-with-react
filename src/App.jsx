@@ -3,9 +3,9 @@ import UserInput from "./components/UserInput.jsx";
 
 function App() {
   return (
-   <li> <Header/>
+   <> <Header/>
       <UserInput/>
-   </li>)
+   </>)
 }
 
 export default App
